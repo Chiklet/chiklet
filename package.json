@@ -1,0 +1,23 @@
+{
+  "name": "chiklet",
+  "version": "1.0.0",
+  "description": "Chiklet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiklet/chiklet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiklet/chiklet/issues"
+  },
+  "homepage": "https://github.com/Chiklet/chiklet#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.0.4"
+  }
+}
